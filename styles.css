@@ -13,3 +13,9 @@ p {
   font-size: large;
   font-weight: normal;
 }
+body {
+  background-color: #4AF027;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-weight: normal;
+}
