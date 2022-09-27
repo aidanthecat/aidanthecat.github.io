@@ -1,12 +1,15 @@
 h1 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: xx-large;
+  text-weight: normal;
 }
 h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: x-large;
+  text-weight: normal;
 }
 p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: large;
+  text-weight: normal;
 }
